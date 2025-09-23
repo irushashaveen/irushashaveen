@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Irusha Shaeen</h1>
-<h3 align="center">Full-Stack Developer | Co-Founder at Recca Labs</h3>
+<h3 align="center">Full-Stack Developer | Founder at Recca Labs</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=irushashaveen&label=Profile%20views&color=0e75b6&style=flat" alt="irushashaveen" />

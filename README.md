@@ -1,91 +1,93 @@
-<h1 align="center">Hi 👋, I'm Irusha Shaeen</h1>
-<h3 align="center">Full-Stack Developer | Founder at Recca Labs</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=irushashaveen&label=Profile%20views&color=0e75b6&style=flat" alt="irushashaveen" />
-</p>
+# Irusha Shaveen
 
----
+**Full-Stack Developer · Founder, Recca Labs · SLIIT Software Engineering**
 
-<img width="55%" align="right" alt="Coding" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Irusha%20Shaveen-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/irusha-dilshan-a15645354)
+[![Recca Labs](https://img.shields.io/badge/Recca%20Labs-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/company/recca-labs)
+[![Blog](https://img.shields.io/badge/Blog-irushashaveen.blogspot.com-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://irushashaveen.blogspot.com/)
+[![Email](https://img.shields.io/badge/Email-it23768758%40my.sliit.lk-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:it23768758@my.sliit.lk)
+[![Profile Views](https://komarev.com/ghpvc/?username=irushashaveen&style=flat-square&color=0A66C2&label=Profile+Views)](https://github.com/irushashaveen)
 
-- 🔭 Currently building **full-stack solutions** at [Recca Labs](https://linkedin.com/company/recca-labs)  
-- 🌱 Exploring **AI/ML** + mastering **MERN Stack & Laravel**  
-- 🤝 Open to **collaborations** on innovative web apps & startups  
-- 🧑‍🔧 Active **IEEE** & **IEEE Computer Society** member  
-- 📫 Reach me: **it23768758@my.sliit.lk**  
-- 💬 Ask me anything: [Open an Issue](https://github.com/irushashaveen/irushashaveen/issues)  
-- ⚡ Fun fact: I love building **real-world apps** from scratch 🚀  
+</div>
 
 ---
 
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/irusha-dilshan-a15645354" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/company/recca-labs" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Recca_Labs-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Recca Labs" height="30" />
-  </a>
-  <a href="https://fb.com/your-facebook" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/your-instagram" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
+## About
+
+I'm a software engineering undergraduate at SLIIT, Sri Lanka, building production-grade full-stack applications through my company **Recca Labs**. My work spans microservices architecture, MERN stack systems, and financial technology — always focused on real-world impact over theoretical exercises.
+
+- Currently deepening expertise in **AI/ML integration** and **Laravel**
+- Active member of **IEEE** and the **IEEE Computer Society**
+- Open to collaborations on innovative web applications and early-stage startups
+- Have a question? [Open an issue](https://github.com/irushashaveen/irushashaveen/issues)
 
 ---
 
-## 🛠️ Languages & Tools
-<p align="center">
-  <!-- Core -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45" alt="Express.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/>
+## Tech Stack
 
-  <!-- Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45" alt="PHP"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="45" height="45" alt="Laravel"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
+**Frontend**
 
-  <!-- Programming -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-  <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
+**Backend**
 
-  <!-- Tools -->
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" alt="Git"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="45" alt="Figma"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="AWS"/>
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
----
+**Databases**
 
-## 🏆 Achievements
-<p align="center">
-  <img src="https://img.shields.io/badge/IEEE-Member-blue?style=flat" />
-  <img src="https://img.shields.io/badge/IEEE%20Computer%20Society-Member-orange?style=flat" />
-  <img src="https://github-profile-trophy.vercel.app/?username=irushashaveen&theme=onedark&no-frame=true&row=1&column=4" />
-</p>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Infrastructure & Tools**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irushashaveen&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats"/>
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irushashaveen&theme=dark&hide_border=false" alt="GitHub Streak"/>
-</p>
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=irushashaveen&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=irushashaveen&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irushashaveen&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact&langs_count=8)
+
+</div>
 
 ---
 
-## 🔝 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irushashaveen&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=8" alt="Top Languages"/>
-</p>
+## Achievements
+
+<div align="center">
+
+![IEEE Member](https://img.shields.io/badge/IEEE-Member-00629B?style=flat-square&logo=ieee&logoColor=white)
+![IEEE CS Member](https://img.shields.io/badge/IEEE%20Computer%20Society-Member-0071C5?style=flat-square&logo=ieee&logoColor=white)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=irushashaveen&theme=algolia&no-frame=true&row=1&column=6&margin-w=8)
+
+</div>
+
+---
+
+<div align="center">
+<sub>Built with purpose · <a href="https://linkedin.com/company/recca-labs">Recca Labs</a> · Sri Lanka</sub>
+</div>

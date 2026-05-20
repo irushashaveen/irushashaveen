@@ -1,8 +1,6 @@
 <div align="center">
 
-# Irusha Shaveen
-
-**Full-Stack Developer · Founder, Recca Labs · SLIIT Software Engineering**
+![Header](https://raw.githubusercontent.com/irushashaveen/irushashaveen/main/assets/header.svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Irusha%20Shaveen-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/irusha-dilshan-a15645354)
 [![Recca Labs](https://img.shields.io/badge/Recca%20Labs-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/company/recca-labs)

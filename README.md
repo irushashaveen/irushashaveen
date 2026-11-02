@@ -1,91 +1,73 @@
-<div align="center">
+<p align="center">
+  <img src="assets/engineering-header.svg" alt="Irusha Shaveen — Software Developer and Software Engineering undergraduate at SLIIT. Full-stack applications, API integrations and test automation." width="100%" />
+</p>
 
-![Header](https://raw.githubusercontent.com/irushashaveen/irushashaveen/main/assets/header.svg)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Irusha%20Shaveen-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/irusha-dilshan-a15645354)
-[![Recca Labs](https://img.shields.io/badge/Recca%20Labs-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/company/recca-labs)
-[![Blog](https://img.shields.io/badge/Blog-irushashaveen.blogspot.com-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://irushashaveen.blogspot.com/)
-[![Email](https://img.shields.io/badge/Email-it23768758%40my.sliit.lk-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:it23768758@my.sliit.lk)
-[![Profile Views](https://komarev.com/ghpvc/?username=irushashaveen&style=flat-square&color=0A66C2&label=Profile+Views)](https://github.com/irushashaveen)
-
-</div>
-
----
+<p align="center">
+  <a href="https://linkedin.com/in/irusha-dilshan-a15645354">LinkedIn</a>
+  &nbsp; · &nbsp;
+  <a href="https://linkedin.com/company/recca-labs">Recca Labs</a>
+  &nbsp; · &nbsp;
+  <a href="https://irushashaveen.blogspot.com/">Technical blog</a>
+  &nbsp; · &nbsp;
+  <a href="mailto:it23768758@my.sliit.lk">Email</a>
+</p>
 
 ## About
 
-I'm a software engineering undergraduate at SLIIT, Sri Lanka, building production-grade full-stack applications through my company **Recca Labs**. My work spans microservices architecture, MERN stack systems, and financial technology — always focused on real-world impact over theoretical exercises.
+I'm **Irusha Shaveen**, a **Software Developer** and **Software Engineering undergraduate at SLIIT, Sri Lanka**. I build full-stack applications through **[Recca Labs](https://linkedin.com/company/recca-labs)** and contribute to collaborative projects and open-source libraries.
 
-- Currently deepening expertise in **AI/ML integration** and **Laravel**
-- Active member of **IEEE** and the **IEEE Computer Society**
-- Open to collaborations on innovative web applications and early-stage startups
-- Have a question? [Open an issue](https://github.com/irushashaveen/irushashaveen/issues)
+I enjoy connecting the pieces of an application: user interfaces, backend services, databases and automated tests. My work spans web platforms, API integrations, real-time data and browser automation.
 
----
+- **Current focus:** Full-stack development, software quality and AI integrations.
+- **How I work:** Understand the problem, make focused changes, test the behavior and document the decisions.
+- **Community:** IEEE and IEEE Computer Society.
 
-## Tech Stack
+## Selected projects
 
-**Frontend**
+Personal work and collaborative projects, with my contribution identified where the project is shared.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+| Project | Stack | Work |
+| --- | --- | --- |
+| **[ReMix](https://github.com/ReccaLabs/Remix)** | Next.js · NestJS · PostgreSQL | Tuition learning platform at Recca Labs. Contributions include fees workflows, admin interfaces and API integrations. |
+| **[Safe Zone](https://github.com/Vihanga-Deemantha/Disaster_Managment_System)** | React · TypeScript · Node.js · MongoDB | Team coursework project for disaster coordination. My work covers multi-agency resource allocation, dispatch workflows, UI and tests. |
+| **[Quant Trader Python Engine](https://github.com/irushashaveen/quant-trader-python-engine)** | Python · FastAPI · WebSockets · Docker | Personal backend project exploring market-data APIs and real-time streaming with Pydantic schemas. |
+| **[Playwright Testing Demo](https://github.com/irushashaveen/Payright)** | JavaScript · Playwright · GitHub Actions | Cross-browser automation for Chromium, Firefox and WebKit, with HTML reports and failure traces. |
 
-**Backend**
+## Tech stack
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+Technologies I work with and explore across personal and team projects.
 
-**Databases**
+| Area | Technologies |
+| --- | --- |
+| Languages | TypeScript · JavaScript · Java · Python · PHP · C++ · Ballerina |
+| Frontend | React · Next.js · HTML · CSS |
+| Backend | Node.js · Express · NestJS · FastAPI · Laravel |
+| Data | PostgreSQL · MongoDB · MySQL · Redis |
+| Testing | Playwright · Jest · Vitest |
+| Tools & delivery | Git · GitHub Actions · Docker · AWS · Figma |
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+## GitHub activity
 
-**Languages**
+[![Public GitHub activity snapshot: 556 contributions in 2026, 116 public pull requests, 110 merged public pull requests and 16 public repositories. Captured 2 November 2026.](assets/github-activity.svg)](https://github.com/irushashaveen?tab=overview&from=2026-01-01&to=2026-11-02)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+<sub>Snapshot: 2 November 2026. Contributions cover 1 January–2 November 2026. PR and repository counts are public totals and include personal, team and upstream work.</sub>
 
-**Infrastructure & Tools**
+[All public PRs](https://github.com/search?q=author%3Airushashaveen+is%3Apr+is%3Apublic&type=pullrequests) · [Merged public PRs](https://github.com/search?q=author%3Airushashaveen+is%3Apr+is%3Amerged+is%3Apublic&type=pullrequests) · [Public repositories](https://github.com/irushashaveen?tab=repositories&type=public)
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+## Open-source contributions
 
----
+Recent **submitted pull requests** to the Ballerina ecosystem, focused on reproducible fixes, regression tests and API compatibility. Follow the links for current review and merge status.
 
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=irushashaveen&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=irushashaveen&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irushashaveen&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact&langs_count=8)
-
-</div>
+| Area | Contribution | Pull request |
+| --- | --- | --- |
+| CSV parsing | Honor configured line terminators. | [#88](https://github.com/ballerina-platform/module-ballerina-data.csv/pull/88) |
+| CSV data preservation | Preserve carriage returns in quoted values and headers. | [#89](https://github.com/ballerina-platform/module-ballerina-data.csv/pull/89) |
+| CSV error reporting | Retain fail-safe log entries across parsing and conversion stages. | [#90](https://github.com/ballerina-platform/module-ballerina-data.csv/pull/90) |
+| OpenAI connectors | Add maximum reasoning effort support with HTTP-payload regression tests. | [Chat #38](https://github.com/ballerina-platform/module-ballerinax-openai.chat/pull/38) · [Responses #6](https://github.com/ballerina-platform/module-ballerinax-openai.responses/pull/6) |
 
 ---
 
-## Achievements
-
-<div align="center">
-
-![IEEE Member](https://img.shields.io/badge/IEEE-Member-00629B?style=flat-square&logo=ieee&logoColor=white)
-![IEEE CS Member](https://img.shields.io/badge/IEEE%20Computer%20Society-Member-0071C5?style=flat-square&logo=ieee&logoColor=white)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=irushashaveen&theme=algolia&no-frame=true&row=1&column=6&margin-w=8)
-
-</div>
-
----
-
-<div align="center">
-<sub>Built with purpose · <a href="https://linkedin.com/company/recca-labs">Recca Labs</a> · Sri Lanka</sub>
-</div>
+<p align="center">
+  <strong>Open to software engineering internship opportunities and practical collaborations.</strong><br />
+  <a href="https://linkedin.com/in/irusha-dilshan-a15645354">Let's connect on LinkedIn</a>
+</p>

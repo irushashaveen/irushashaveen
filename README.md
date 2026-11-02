@@ -4,8 +4,13 @@
 
 Software developer and **Software Engineering undergraduate at SLIIT**, Sri Lanka. I build full-stack products through **Recca Labs**, explore applied AI and contribute to open source.
 
-[![WSO2 / Ballerina — PRs submitted](https://img.shields.io/badge/WSO2%20%2F%20Ballerina-PRs%20submitted-FF7300?style=flat-square)](https://github.com/search?q=author%3Airushashaveen+org%3Aballerina-platform+is%3Apr&type=pullrequests)
-![NVIDIA Jetson — Exploring](https://img.shields.io/badge/NVIDIA%20Jetson-Exploring-76B900?style=flat-square&logo=nvidia&logoColor=white)
+<p>
+  <a href="https://github.com/wso2"><img src="https://avatars.githubusercontent.com/u/533043?v=4&amp;s=48" alt="WSO2 GitHub" width="24" height="24" /></a>
+  <a href="https://github.com/search?q=author%3Airushashaveen+org%3Aballerina-platform+is%3Apr&amp;type=pullrequests"><img src="https://img.shields.io/badge/WSO2%20%2F%20Ballerina-4%2B%20submitted-FF7300?style=flat-square" alt="WSO2 / Ballerina — 4+ submitted contributions" height="24" /></a>
+  &nbsp;
+  <a href="https://github.com/NVIDIA"><img src="https://avatars.githubusercontent.com/u/1728152?v=4&amp;s=48" alt="NVIDIA GitHub" width="24" height="24" /></a>
+  <a href="https://github.com/NVIDIA"><img src="https://img.shields.io/badge/NVIDIA%20Jetson-Exploring-76B900?style=flat-square" alt="NVIDIA Jetson — Exploring" height="24" /></a>
+</p>
 
 ### Currently
 
@@ -17,15 +22,6 @@ Software developer and **Software Engineering undergraduate at SLIIT**, Sri Lank
 [![TypeScript, JavaScript, React, Next.js, Node.js, Python, Java, PostgreSQL, MongoDB, Docker, Git and AWS](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,java,postgres,mongodb,docker,git,aws&theme=dark&perline=12)](https://skillicons.dev)
 
 <sub>Also: Express · FastAPI · Laravel · C++ · Playwright · GitHub Actions</sub>
-
-### WSO2 / Ballerina
-
-Four contribution areas, with fixes and regression coverage submitted for review.
-
-- **CSV record boundaries** — honor configured line terminators. [PR #88](https://github.com/ballerina-platform/module-ballerina-data.csv/pull/88)
-- **CSV data preservation** — retain carriage returns in quoted fields. [PR #89](https://github.com/ballerina-platform/module-ballerina-data.csv/pull/89)
-- **CSV diagnostics** — preserve fail-safe logs across processing stages. [PR #90](https://github.com/ballerina-platform/module-ballerina-data.csv/pull/90)
-- **OpenAI API compatibility** — support maximum reasoning effort. [Chat #38](https://github.com/ballerina-platform/module-ballerinax-openai.chat/pull/38) · [Responses #6](https://github.com/ballerina-platform/module-ballerinax-openai.responses/pull/6)
 
 ---
 
